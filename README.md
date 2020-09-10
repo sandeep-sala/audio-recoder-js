@@ -1,6 +1,6 @@
-# Password Generator
+# Audio Recorder
 
-It is an Password Generator, which takes the input of such as a length of password
+Record audio
 
 ## Installation
 
